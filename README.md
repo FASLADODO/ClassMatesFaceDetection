@@ -1,7 +1,10 @@
 # ClassMatesFaceDetection
 Created a face detector function that outputs class members and location. Use of SVM, Decision Trees and Random Forests
 
-RecogniseFace is the function
+Obtained a Distinction garde for the project (79.5%).
+
+
+RecogniseFace is the main function.
 
 There are 2 feature extraction techniques used on 3 different classifiers.
 SURF was trained through the bag of features approach.
